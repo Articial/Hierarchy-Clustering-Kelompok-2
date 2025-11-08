@@ -92,7 +92,7 @@ conda install pandas numpy matplotlib seaborn scipy scikit-learn
 
 ## **Referensi**
 
-1. Kaggle. (2024). BMW Worldwide Sales Records (2010-2024). Retrieved from [https://www.kaggle.com/dataset/BMW](https://www.kaggle.com/dataset/BMW)
+1. Kaggle. (2024). BMW Worldwide Sales Records (2010-2024). Retrieved from [https://www.kaggle.com/code/mohamedzayton/used-car-data-set-bmw](https://www.kaggle.com/code/mohamedzayton/used-car-data-set-bmw)
 2. Ward, J. H. (1963). Hierarchical Grouping to Optimize an Objective Function. *Journal of the American Statistical Association*, 58(301), 236-244.
 3. Han, J., Kamber, M., & Pei, J. (2012). *Data Mining: Concepts and Techniques* (3rd ed.). Elsevier.
 
